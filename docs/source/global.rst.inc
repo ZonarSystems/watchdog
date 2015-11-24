@@ -18,8 +18,6 @@
 .. _GetQueuedCompletionStatus: http://msdn.microsoft.com/en-us/library/aa364986(v=VS.85).aspx
 .. _CreateIoCompletionPort: http://msdn.microsoft.com/en-us/library/aa363862(v=VS.85).aspx
 
-.. _argh: http://pypi.python.org/pypi/argh
-.. _argparse: http://pypi.python.org/pypi/argparse
 .. _coverage: http://nedbatchelder.com/code/coverage/
 .. _file.monitor: http://github.com/pke/file.monitor
 .. _fsmonitor: http://github.com/shaurz/fsmonitor
@@ -29,7 +27,6 @@
 .. _homebrew: http://mxcl.github.com/homebrew/
 .. _inotify-tools: http://github.com/rvoicilas/inotify-tools
 .. _jnotify: http://jnotify.sourceforge.net/
-.. _LibYAML: http://pyyaml.org/wiki/LibYAML
 .. _nose: http://nose.readthedocs.org/en/latest/
 .. _pip: http://pypi.python.org/pypi/pip
 .. _pnotify: http://mark.heily.com/pnotify
@@ -37,7 +34,6 @@
 .. _pyinotify: http://github.com/seb-m/pyinotify
 .. _Python: http://python.org
 .. _pywin32: http://sourceforge.net/projects/pywin32/
-.. _PyYAML: http://www.pyyaml.org/
 .. _select_backport: http://pypi.python.org/pypi/select_backport/
 .. _sphinx: http://sphinx.pocoo.org/
 .. _treewalker: http://github.com/jbd/treewatcher
